@@ -395,7 +395,7 @@ input {
 	li > .online {
 		position: relative;top: 250px;
 		font-size: 3vh;
-		position: relative;left: 55px;
+		position: relative;left: 53px;
 		padding: 5px;
 		height: 0;
 	}
@@ -566,6 +566,6 @@ position: relative;
 	.input_h {
 		display: flex;
 		position: relative;top: -104px;
-		position: relative;left: 579px;
+		position: relative;left: 578px;
 	}
 }
